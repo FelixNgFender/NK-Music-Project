@@ -1,1 +1,17 @@
 ê 2 ông cứ viết vô đây r commit thẳng vô main luôn nha
+
+Các tính năng có trong hợp âm chuẩn:
+  .Thanh công cụ
+    bài hát
+    hợp âm
+    playlist
+    thể loại
+    khóa học
+    yêu cầu hợp âm
+    guitar, harmonica, dancing
+  
+  .Giao diện chính
+    các bài hot nhất hôm nay
+    hợp âm mới
+    video mới
+    bài viết nổi bật
