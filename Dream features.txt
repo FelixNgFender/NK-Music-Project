@@ -1,17 +1,31 @@
 ê 2 ông cứ viết vô đây r commit thẳng vô main luôn nha
 
-Các tính năng có trong hợp âm chuẩn:
+Các tính năng có trong hợp âm chuẩn & Theharmonica.vn:
   .Thanh công cụ
+    Trang chủ
     bài hát
-    hợp âm
     playlist
-    thể loại
-    khóa học
-    yêu cầu hợp âm
-    guitar, harmonica, dancing
+    yêu cầu hợp âm & tab
+    Guitar, Harmonica, Dancing
+    
   
-  .Giao diện chính
+  .Trang chủ
     các bài hot nhất hôm nay
     hợp âm mới
-    video mới
-    bài viết nổi bật
+    list các video diễn
+    list các video hướng dẫn
+    list các bài giảng
+    
+  .Bài hát
+    Cập nhật các bài hát mới bao gồm tab cho harp và guitar, hợp âm, note nhạc
+    
+  .Playlist
+    Gom các bài có cùng chủ đề như nhạc tết, nhạc usuk
+    
+  .Yêu cầu hợp âm
+    Người dùng có thể suggest hợp âm và tab 
+   
+  . Guiatr & Harmonica & Dancing
+    bài giảng
+    video hướng dẫn
+    video trình diễn
